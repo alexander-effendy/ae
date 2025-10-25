@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Cash",
+    "amount": 15000
+  },
+  {
+    "label": "Crypto",
+    "amount": 10000
+  },
+  {
+    "label": "ETFs",
+    "amount": 6000
+  }
+]

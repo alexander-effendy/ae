@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "label": "COINGECKO",
+    "url": "https://www.coingecko.com/",
+    "description": "Track live cryptocurrency prices and market trends."
+  },
+  {
+    "id": 2,
+    "label": "BETASHARES",
+    "url": "https://www.betashares.com.au/direct",
+    "description": "Australian ETF provider offering investment insights and tools."
+  },
+  {
+    "id": 3,
+    "label": "DARK DESIGN",
+    "url": "https://www.dark.design/",
+    "description": "A curated collection of dark-themed UI and web inspiration."
+  },
+  {
+    "id": 4,
+    "label": "SANITY STUDIO",
+    "url": "https://www.sanity.io/studio",
+    "description": "Headless CMS platform to build and manage structured content."
+  },
+  {
+    "id": 5,
+    "label": "LOTTIEFILES",
+    "url": "https://app.lottiefiles.com/",
+    "description": "Free animations and JSON-based Lottie assets for web and apps."
+  },
+  {
+    "id": 6,
+    "label": "DARK MODE DESIGN",
+    "url": "https://www.darkmodedesign.com/",
+    "description": "Explore modern websites with elegant dark-mode designs."
+  },
+  {
+    "id": 7,
+    "label": "VERCEL PROJECTS",
+    "url": "https://vercel.com/alexander-effendys-projects/bouldering",
+    "description": "Your Vercel dashboard for managing and deploying web apps."
+  },
+  {
+    "id": 8,
+    "label": "MARKET INDEX GOLD",
+    "url": "https://www.marketindex.com.au/gold",
+    "description": "Australian gold price charts and historical performance data."
+  },
+  {
+    "id": 9,
+    "label": "ABC BULLION",
+    "url": "https://www.abcbullion.com.au/",
+    "description": "Leading precious metals dealer for gold and silver investments."
+  },
+  {
+    "id": 10,
+    "label": "PIXELART ICONS",
+    "url": "https://pixelarticons.com/",
+    "description": "Beautiful minimalist pixel-style icons for modern UIs."
+  },
+  {
+    "id": 11,
+    "label": "HIANIME",
+    "url": "https://hianime.to/",
+    "description": "Stream your favorite anime in HD with an easy-to-use interface."
+  },
+  {
+    "id": 12,
+    "label": "YOUTUBE",
+    "url": "https://www.youtube.com/",
+    "description": "Endless videos, tutorials, and inspiration for everything you love."
+  },
+  {
+    "id": 13,
+    "label": "GITHUB",
+    "url": "https://github.com/",
+    "description": "Host, share, and collaborate on code with developers worldwide."
+  },
+  {
+    "id": 14,
+    "label": "AWS LEARNING",
+    "url": "https://aws.amazon.com/training/",
+    "description": "Official AWS Training and Certification to level up your cloud skills."
+  },
+  {
+    "id": 15,
+    "label": "REDDIT",
+    "url": "https://www.reddit.com/",
+    "description": "Dive into communities, discussions, and memes on any topic imaginable."
+  },
+  {
+    "id": 16,
+    "label": "JAPAN GUIDE",
+    "url": "https://www.japan-guide.com/",
+    "description": "Comprehensive travel guide covering Japan's cities, culture, and tips."
+  },
+  {
+    "id": 17,
+    "label": "JAPAN RAIL PASS",
+    "url": "https://japanrailpass.net/",
+    "description": "Official JR Pass site for traveling efficiently across Japan by train."
+  },
+  {
+    "id": 18,
+    "label": "CAMERA BASICS",
+    "url": "https://photographylife.com/",
+    "description": "Learn photography fundamentals — exposure, ISO, lighting, and more."
+  },
+  {
+    "id": 19,
+    "label": "AWWWARDS",
+    "url": "https://www.awwwards.com/",
+    "description": "Showcase of the world’s best-designed and most creative websites."
+  },
+  {
+    "id": 20,
+    "label": "HOTARUTEI",
+    "url": "https://www.hotarutei.com/",
+    "description": "Traditional Japanese fine dining restaurant with serene aesthetics."
+  }
+]
